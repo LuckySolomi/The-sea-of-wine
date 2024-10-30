@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "sass": "^1.80.2"
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "sass": "sass --watch styles.scss:styles.css"
+  },
+  "devDependencies": {
+    "eslint": "^9.13.0",
+    "globals": "^15.11.0"
+  }
+}
